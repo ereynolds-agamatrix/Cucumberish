@@ -3,6 +3,8 @@ CucumberishExample/CucumberishExample.xcodeproj/xcuserdata/*
 CucumberishExample/Pods/Pods.xcodeproj/xcuserdata/*
 CucumberishLibraryTest/CucumberishLibrary.xcodeproj/xcuserdata/*
 CucumberishLibraryTest/CucumberishLibrary.xcodeproj/project.xcworkspace/xcuserdata/*
+CucumberishLibraryTest/DerivedData/*
+CucumberishLibraryTest/Build/*
 
-CucumberishExample/DerivedData
-CucumberishExample/Build
+CucumberishExample/DerivedData/*
+CucumberishExample/Build/*
